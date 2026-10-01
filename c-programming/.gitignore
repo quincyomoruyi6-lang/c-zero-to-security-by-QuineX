@@ -1,0 +1,18 @@
+# Compiled output
+*.o
+*.obj
+*.out
+*.exe
+a.out
+
+# Debug / analysis junk
+*.dSYM/
+*.su
+*.gdb_history
+vgcore.*
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+*.swp
